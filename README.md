@@ -10,4 +10,4 @@
 
 > 띵이봇 보러가기!
 
-![띵이봇 V.2](https://github-readme-stats.vercel.app/api/pin/?username=OHvrything&repo=thingebotV2)
+![띵이봇 V.2](https://github-readme-stats.vercel.app/api/pin/?username=TEAMTEB&repo=thingebotV2)
