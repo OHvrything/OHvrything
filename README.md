@@ -4,4 +4,4 @@
 
 ### YouTube ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-LdM1LY3waO9UasSJN2mRw?style=for-the-badge&logo=youtube)
 
-### [ThingEBot](http://invite.thingebot.kro.kr)
+### ThingEBot [![ThingEBot](https://img.shields.io/badge/%EB%9D%B5%EC%9D%B4%EB%B4%87-%EC%B4%88%EB%8C%80%ED%95%98%EA%B8%B0-5865F2?logo=discord&style=for-the-badge)](http://invite.thingebot.kro.kr)
